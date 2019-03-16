@@ -21,7 +21,7 @@ ntabs = 5
 
 screw_rad1 = 3.5/2
 screw_rad2 = 4.0
-blah
+
 output_dir = 'covers'
 
 # Generate SVG files
